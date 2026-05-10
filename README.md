@@ -9,8 +9,8 @@
 
 **PREVIEW**
 
-## [youtube](https://www.youtube.com/watch?v=Ii9z4AeVXGs)
+## [YOUTUBE VIDEO](https://www.youtube.com/watch?v=Ii9z4AeVXGs)
 
-> image
+image
 <img width="700" height="400" alt="image" src="https://github.com/user-attachments/assets/29abb196-d7a5-44d8-beb5-83847527e716" />
 
