@@ -6,3 +6,11 @@
 2. Drag it into your resources directory.
 3. Configure it in the `config.lua` file.
 4. `Enjoy ;)`
+
+**PREVIEW [image]**
+
+<img width="1300" height="800" alt="image" src="https://github.com/user-attachments/assets/29abb196-d7a5-44d8-beb5-83847527e716" />
+
+**[video]**
+
+https://www.youtube.com/watch?v=Ii9z4AeVXGs
