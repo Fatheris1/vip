@@ -8,9 +8,8 @@
 4. `Enjoy ;)`
 
 **PREVIEW [image]**
-
-<img width="1300" height="800" alt="image" src="https://github.com/user-attachments/assets/29abb196-d7a5-44d8-beb5-83847527e716" />
-
 **[video]**
+**https://www.youtube.com/watch?v=Ii9z4AeVXGs**
+[image]
+<img width="600" height="450" alt="image" src="https://github.com/user-attachments/assets/29abb196-d7a5-44d8-beb5-83847527e716" />
 
-https://www.youtube.com/watch?v=Ii9z4AeVXGs
