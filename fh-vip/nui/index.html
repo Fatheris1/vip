@@ -1,0 +1,53 @@
+<!DOCTYPE html>
+<html lang="lt">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>VIP Access</title>
+    <link rel="stylesheet" href="style.css">
+    <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.4.0/css/all.min.css">
+</head>
+<body>
+    <div id="app" style="display: none;">
+        <div class="container">
+            <header class="header">
+                <div class="brand">
+                    <div class="logo-icon">
+                        <i class="fas fa-crown"></i>
+                    </div>
+                    <div class="brand-text">
+                        <h1 id="ui-welcome">ARCADE VIP</h1>
+                        <span>Premium Membership</span>
+                    </div>
+                </div>
+                <button id="close-btn">
+                    <i class="fas fa-times"></i>
+                </button>
+            </header>
+
+            <div class="stats-grid">
+                <div class="stat-card">
+                    <span class="stat-label" id="ui-membership-status">Narystės Būsena</span>
+                    <div class="stat-value"><span id="vip-level-num">0</span> <span id="ui-level-label">Lygis</span></div>
+                </div>
+                <div class="stat-card">
+                    <span class="stat-label" id="ui-remaining-time">Liko Galiojimo</span>
+                    <div class="stat-value"><span id="days-remaining">0</span> <span id="ui-days">Dienos</span></div>
+                </div>
+            </div>
+
+            <div class="main-action">
+                <button class="claim-btn" id="action-btn-1">
+                    <i class="fas fa-gem"></i>
+                    <span id="ui-claim-bonus">Atsiimti Dienos Bonusą</span>
+                </button>
+            </div>
+
+            <footer class="footer" id="ui-footer">
+                Ačiū, kad esate mūsų bendruomenės dalis.
+            </footer>
+        </div>
+    </div>
+    <script src="script.js"></script>
+</body>
+</html>
